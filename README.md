@@ -44,4 +44,14 @@ Top 5 products generated the majority of store revenue
 
 Seasonal trends show monthly fluctuations in sales volume
 
+Dashboard Preview
+<img width="903" height="503" alt="Dashboard Retail Sales Store" src="https://github.com/user-attachments/assets/22c3af0b-7b8c-4608-91ac-12967338d957" />
 
+
+Author
+
+Shruti Patil
+
+Email: pshruti.connect@gmail.com
+
+LinkedIn: www.linkedin.com/in/shrutipatil98
